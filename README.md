@@ -5,8 +5,7 @@
 - 💬 Feel free to reach out to me for any collaboration or project discussion
 
   ## Tools, Framework, and Languages I work with
-  ![Python]
-  ![Django]
+  Python Django
   ![JavaScript]
   ![PHP]
   ![Laravel]
