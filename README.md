@@ -5,7 +5,8 @@
 - 💬 Feel free to reach out to me for any collaboration or project discussion
 
   ## Tools, Framework, and Languages I work with
-  Python Django
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  Django
   ![JavaScript]
   ![PHP]
   ![Laravel]
