@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jaqueline Rasmy
+- 👋 Hi, I’m Jackleen Rasmy
 - 🖥️ Backend Web Developer with experience in *Python / Django*
 - 👩‍💻 Skilled in developing scalable web applications and APIs using Django, PostgreSQL, and other modern technologies
 - 💼 Open to collaboration on exciting new projects to expand my expertise and contribute to meaningful work
