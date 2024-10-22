@@ -4,7 +4,9 @@
 - 💼 Open to collaboration on exciting new projects to expand my expertise and contribute to meaningful work
 - 💬 Feel free to reach out to me for any collaboration or project discussion
 
-  ## Tools, Framework, and Languages I work with
+  ---
+
+## 🛠️ Tools, Frameworks, and Languages I Work With
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
