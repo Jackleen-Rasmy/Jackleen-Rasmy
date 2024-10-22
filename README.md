@@ -4,6 +4,10 @@
 - 💼 Open to collaboration on exciting new projects to expand my expertise and contribute to meaningful work
 - 💬 Feel free to reach out to me for any collaboration or project discussion
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackleen-Rasmy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
   ---
 
 ## 🛠️ Tools, Frameworks, and Languages I Work With
